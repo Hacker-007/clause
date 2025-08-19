@@ -2,5 +2,9 @@
 name = "clause"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "a no-magic and intuitive ORM"
+repository = "https://www.github.com/Hacker-007/clause"
+readme = "README.md"
 
 [dependencies]
